@@ -12,4 +12,8 @@
     <!-- About phone screen, VortexAOSP version -->
     <string name="rom_version_title">VortexAOSP version</string>
 
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Use Black theme</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
+
 </resources>
